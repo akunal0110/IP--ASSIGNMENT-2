@@ -13,7 +13,7 @@ body {
 
 
 header {
-    background: linear-gradient(135deg, #4A90E2, #00C6FF); /* Gradient background */
+    background: linear-gradient(135deg, #4A90E2, #00C6FF); 
     color: #fff;
     padding: 20px;
     position: relative;
@@ -106,7 +106,6 @@ details ul {
     margin: 10px 0 10px 20px;
 }
 
-/* Table Styling */
 table {
     width: 100%;
     border-collapse: collapse;
